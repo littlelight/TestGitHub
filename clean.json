@@ -1,8 +1,8 @@
 {
   "artWorks" : [
     {
-      "data” : "2000\u20132004",
-      “test” : “lala”,
+      "date" : "2000\u20132004",
+      "category" : "Arts of Europe",
       "workName" : "End Game",
       "photoLink" : "http://www.mfah.org/site_media/cache/37/3d/373da8a6e03ba7e0685b6e4d1e58a60a.jpg",
       "artistName" : "DAMIEN  HIRST",
